@@ -2,15 +2,18 @@
 # the commented lines are the default social media links supported by the template
 # the socials will be displayed in the order they are defined here
 
+email: yun.hy@northeastern.edu # your email address
+scholar_userid: C1kgMskAAAAJ # your Google Scholar ID
+github_username: hyesunyun # your GitHub user name
+linkedin_username: hyesunyun # your LinkedIn user name
+bluesky_url: hyesunyun.bsky.social # your bluesky URL
+
 # acm_id: # your dl.acm.org/profile/id
 # blogger_url: # your blogger URL
 # dblp_url: # your DBLP profile url
 # discord_id: # your discord id (18-digit unique numerical identifier)
-email: yun.hy@northeastern.edu # your email address
 # facebook_id: # your facebook id
 # flickr_id: # your flickr id
-scholar_userid: C1kgMskAAAAJ # your Google Scholar ID
-github_username: hyesunyun # your GitHub user name
 # gitlab_username: # your GitLab user name
 # ieee_id: # your ieeexplore.ieee.org/author/id
 # inspirehep_id: 1010907 # Inspire HEP author ID
@@ -47,5 +50,3 @@ github_username: hyesunyun # your GitHub user name
 #   logo: https://www.alberteinstein.com/wp-content/uploads/2024/03/cropped-favicon-192x192.png # can be png, svg, jpg
 #   title: Custom Social
 #   url: https://www.alberteinstein.com/
-linkedin_username: hyesunyun # your LinkedIn user name
-bluesky_url: hyesunyun.bsky.social # your bluesky URL
