@@ -31,4 +31,4 @@ This undergraduate and masters special topics course aims to provide a human-cen
 - **CS320: Tangible User Interfaces** \| Fall 2016 \| Wellesley College
 - **CS235: Languages and Automata** \| Fall 2016 \| Wellesley College
 - **CS231: Algorithms** \| Spring 2016 \| Wellesley College
-- **JPN101 and 102: Beginning Japanese** (2014-2015) \| Wellesley College
+- **JPN101 and 102: Beginning Japanese** \| 2014-2015 \| Wellesley College
