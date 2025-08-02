@@ -4,7 +4,7 @@ permalink: /teaching/
 title: teaching
 description: materials for courses I have taught
 nav: true
-nav_order: 6
+nav_order: 5
 ---
 
 ## Instructor of Record
