@@ -30,7 +30,7 @@ My name is Hye Sun Yun (윤혜선 in Korean).
 
 I am a Computer Science PhD candidate at [Northeastern University](https://www.northeastern.edu/) in the [Khoury College of Computer Sciences](https://www.khoury.northeastern.edu/).
 I work on **Human-Computer Interactions (HCI)** and **Natural Language Processing (NLP)**, mainly on applications in health. I am co-advised by [Timothy Bickmore](https://www.ccs.neu.edu/home/bickmore/) and [Byron Wallace](https://www.byronwallace.com/).
-I am interested in responsible and human-centered AI and applying HCI and NLP research methods to meet the needs, interests, preferences, and requirements of end users. Specifically, my focus is on building and evaluating language technologies to improve access to **health information**.
+I am interested in **responsible and human-centered AI** and applying HCI and NLP research methods to meet the needs, interests, preferences, and requirements of end users. Specifically, my focus is on building and evaluating language technologies to improve **access to health/medical research information**.
 
 Before starting my PhD in fall of 2020, I worked as a full-stack software engineer/manager for three years at Wayfair.
 I earned my bachelor's in Computer Science and Africana Studies at [Wellesley College](https://www.wellesley.edu/).
