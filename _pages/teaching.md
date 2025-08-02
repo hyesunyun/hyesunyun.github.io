@@ -7,7 +7,7 @@ nav: true
 nav_order: 6
 ---
 
-## Instructor of Record 
+## Instructor of Record
 
 ### DS2500: Intermediate Programming with Data
 
