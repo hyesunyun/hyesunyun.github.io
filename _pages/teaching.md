@@ -15,6 +15,8 @@ nav_order: 5
 
 DS 2500 offers intermediate to advanced Python programming for data science. Covers object-oriented design patterns using Python, including encapsulation, composition, and inheritance. Advanced programming skills cover software architecture, recursion, profiling, unit testing and debugging, lineage and data provenance, using advanced integrated development environments, and software control systems. Uses case studies to survey key concepts in data science with an emphasis on machine-learning (classification, clustering, deep learning); data visualization; and natural language processing. Additional assigned readings survey topics in ethics, model bias, and data privacy pertinent to today's big data world. Offers students an opportunity to prepare for more advanced courses in data science and to enable practical contributions to software development and data science projects in a commercial setting.
 
+[Course Syllabus](../assets/pdf/DS2500-Syllabus.pdf) \| [History Minute](https://drive.google.com/drive/folders/1CET4QaM3tZRIvAEMCulHBn424ZsoNYIF?usp=sharing)
+
 ### CS4973/CS6983: Research in Human-Centered NLP
 
 **Spring 2025**
