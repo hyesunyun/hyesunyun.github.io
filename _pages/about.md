@@ -38,5 +38,3 @@ I earned my bachelor's in Computer Science and Africana Studies at [Wellesley Co
 I love playing Ultimate Frisbee, running, cooking, and baking. A couple of years ago I completed [Reddit's 52 weeks of cooking](https://www.reddit.com/r/52weeksofcooking/) challenge. You can read all about my cooking adventures in my [cooking blog](https://heysonbyeson.wordpress.com/).
 
 _If you are interested in knowing more about my research or want to chat about CS PhD application process, please feel free to email me!_
-
-_I am currently in the job market for teaching-oriented academic roles._
