@@ -28,13 +28,14 @@ Hello! 👋
 
 My name is Hye Sun Yun (윤혜선 in Korean).
 
-I am a Computer Science PhD candidate at [Northeastern University](https://www.northeastern.edu/) in the [Khoury College of Computer Sciences](https://www.khoury.northeastern.edu/).
-I work on **Human-Computer Interactions (HCI)** and **Natural Language Processing (NLP)**, mainly on applications in health. I am co-advised by [Timothy Bickmore](https://www.ccs.neu.edu/home/bickmore/) and [Byron Wallace](https://www.byronwallace.com/).
+I am a Computer Science PhD candidate at [Northeastern University](https://www.northeastern.edu/) in the [Khoury College of Computer Sciences](https://www.khoury.northeastern.edu/), co-advised by [Timothy Bickmore](https://www.ccs.neu.edu/home/bickmore/) and [Byron Wallace](https://www.byronwallace.com/).
+In Fall 2026, I will be joining [Lafayette College](https://www.lafayette.edu/) as an Assistant Professor of [Data Science Program](https://datascience.lafayette.edu/) and [Computer Science Department](https://compsci.lafayette.edu/).
+I work on **Human-Computer Interactions (HCI)** and **Natural Language Processing (NLP)**, mainly on applications in health. 
 I am interested in **responsible and human-centered AI** and applying HCI and NLP research methods to meet the needs, interests, preferences, and requirements of end users. Specifically, my focus is on building and evaluating language technologies to improve **access to health and medical research information**.
 
 Before starting my PhD in fall of 2020, I worked as a full-stack software engineer/manager for three years at Wayfair.
 I earned my bachelor's in Computer Science and Africana Studies at [Wellesley College](https://www.wellesley.edu/).
 
-I love playing Ultimate Frisbee, running, cooking, and baking. A couple of years ago I completed [Reddit's 52 weeks of cooking](https://www.reddit.com/r/52weeksofcooking/) challenge. You can read all about my cooking adventures in my [cooking blog](https://heysonbyeson.wordpress.com/).
+I love playing Ultimate Frisbee, swimming, running, cooking, and watching movies in theaters. A few years ago I completed [Reddit's 52 weeks of cooking](https://www.reddit.com/r/52weeksofcooking/) challenge. You can read all about my cooking adventures in my [cooking blog](https://heysonbyeson.wordpress.com/).
 
 _If you are interested in knowing more about my research or want to chat about CS PhD application process, please feel free to email me!_
