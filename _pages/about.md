@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Assistant Professor, Computer \& Data Science, Lafayette College
+subtitle: Assistant Professor, Computer & Data Science, Lafayette College
 
 profile:
   align: right
@@ -32,7 +32,7 @@ I am an Assistant Professor in the [Computer Science Department](https://compsci
 
 I am interested in **responsible and human-centered AI** and applying HCI and NLP methodologies to align interactive systems with end users' needs, interests, preferences, and requirements. Specifically, my research focuses on building and evaluating language technologies to **improve access to health and medical research information**.
 
-I completed my PhD in Computer Science at [Northeastern University](https://www.northeastern.edu/) ([Khoury College of Computer Sciences](https://www.khoury.northeastern.edu/)), where I was co-advised by [Timothy Bickmore](https://www.ccs.neu.edu/home/bickmore/) and [Byron Wallace](https://www.byronwallace.com/). Previously, I worked as a full-stack software engineer/manager for three years at Wayfair.
+I completed my PhD in Computer Science at [Northeastern University](https://www.northeastern.edu/)'s [Khoury College of Computer Sciences](https://www.khoury.northeastern.edu/), where I was co-advised by [Timothy Bickmore](https://www.ccs.neu.edu/home/bickmore/) and [Byron Wallace](https://www.byronwallace.com/). Previously, I worked as a full-stack software engineer/manager for three years at Wayfair.
 I earned my bachelor's in Computer Science and Africana Studies from [Wellesley College](https://www.wellesley.edu/).
 
 Outside of work, I love playing Ultimate Frisbee, swimming, running, biking, cooking, and watching movies on the big screen. I once completed [Reddit's 52 weeks of cooking](https://www.reddit.com/r/52weeksofcooking/) challenge. You can read all about my cooking adventures in my [cooking blog](https://heysonbyeson.wordpress.com/).
