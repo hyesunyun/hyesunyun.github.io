@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Assistant Professor, Data Science and Computer Science, Lafayette College
+subtitle: Assistant Professor, Computer \& Data Science, Lafayette College
 
 profile:
   align: right
@@ -28,7 +28,7 @@ Hello! 👋
 
 My name is Hye Sun Yun (윤혜선 in Korean).
 
-I am an Assistant Professor in the [Data Science Program](https://datascience.lafayette.edu/) and [Computer Science Department](https://compsci.lafayette.edu/) at [Lafayette College](https://www.lafayette.edu/). My work lies at the intersection of **Human-Computer Interactions (HCI)** and **Natural Language Processing (NLP)**, with a focus on health applications.
+I am an Assistant Professor in the [Computer Science Department](https://compsci.lafayette.edu/) and the [Data Science Program](https://datascience.lafayette.edu/) at [Lafayette College](https://www.lafayette.edu/). My work lies at the intersection of **Human-Computer Interactions (HCI)** and **Natural Language Processing (NLP)**, with a focus on health applications.
 
 I am interested in **responsible and human-centered AI** and applying HCI and NLP methodologies to align interactive systems with end users' needs, interests, preferences, and requirements. Specifically, my research focuses on building and evaluating language technologies to **improve access to health and medical research information**.
 
