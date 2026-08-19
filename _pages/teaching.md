@@ -11,7 +11,7 @@ nav_order: 5
 
 **Fall 2026**
 
-This course offers an introduction to computational thinking and programming, emphasizing problem-solving skills and foundational concepts in computer science. Students learn to design, write, and debug programs using the Python programming language. Topics include fundamental programming concepts such as variables, data types, control structures, functions, loops, and basic data structures like lists and dictionaries. Social issues with data, such as privacy and ethics, is also discussed. No prior programming experience is expected. 
+This course offers an introduction to computational thinking and programming, emphasizing problem-solving skills and foundational concepts in computer science. Students learn to design, write, and debug programs using the Python programming language. Topics include fundamental programming concepts such as variables, data types, control structures, functions, loops, and basic data structures like lists and dictionaries. Social issues with data, such as privacy and ethics, is also discussed. No prior programming experience is expected.
 
 ## DS 201: Principles of Data Science
 
