@@ -7,9 +7,19 @@ nav: true
 nav_order: 5
 ---
 
-## Instructor of Record
+## CS 110: Introduction to Computer Programming
 
-### DS2500: Intermediate Programming with Data
+**Fall 2026**
+
+This course offers an introduction to computational thinking and programming, emphasizing problem-solving skills and foundational concepts in computer science. Students learn to design, write, and debug programs using the Python programming language. Topics include fundamental programming concepts such as variables, data types, control structures, functions, loops, and basic data structures like lists and dictionaries. Social issues with data, such as privacy and ethics, is also discussed. No prior programming experience is expected. 
+
+## DS 201: Principles of Data Science
+
+**Fall 2026**
+
+This is a survey course that introduces the principles of data science. Specifically, it covers how to (i) collect and manage large sets of data, (ii) summarize and visualize data to convey information in a meaningful way, and (iii) implement basic machine learning models; all this while doing so in a thoughtful manner taking ethics and privacy into consideration.
+
+## DS2500: Intermediate Programming with Data
 
 **Fall 2025**
 
@@ -17,7 +27,7 @@ DS 2500 offers intermediate to advanced Python programming for data science. Cov
 
 [Course Syllabus](../assets/pdf/DS2500-Syllabus.pdf) \| [History Minute](https://drive.google.com/drive/folders/1CET4QaM3tZRIvAEMCulHBn424ZsoNYIF?usp=sharing)
 
-### CS4973/CS6983: Research in Human-Centered NLP
+## CS4973/CS6983: Research in Human-Centered NLP
 
 **Spring 2025**
 
