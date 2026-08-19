@@ -503,7 +503,7 @@ ninja.data = [{
         title: 'Google Scholar',
         section: 'Socials',
         handler: () => {
-          window.open("https://scholar.google.com/citations?user=C1kgMskAAAAJ", "_blank");
+          window.open("https://scholar.google.com/citations?user=GCUd5rEAAAAJ", "_blank");
         },
       },{
         id: 'social-github',
